@@ -1,3 +1,5 @@
+# Check Out The Lastet Version [Here](https://github.com/dracula/cutter)
+
 # Dracula for [Cutter](https://cutter.re/)
 
 > A dark theme for [Cutter](https://cutter.re/).
